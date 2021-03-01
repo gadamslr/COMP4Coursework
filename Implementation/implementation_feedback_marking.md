@@ -1,24 +1,16 @@
-#Technical Solution
-####COMP4 Coursework Feedback and Marking
+# Technical Solution
+
+##COMP4 Coursework Feedback and Marking
+
 There are **20 marks** available for this section.
 
 |Name|Candidate No.|Centre No.|Draft Mark|Final Mark|
 |-|-|-|:-:|:-:|
 | | |22151|**0**|**0**|
 
-##Overall Comments
+## Overall Comments
 
-##Processing Objectives
-
-|**Strengths**||
-|-|-|
-|| |
-|**Weaknesses**||
-|| |
-
-##Program Listing
-
-###From System Maintenance Marking Section (Code listing/Structure)
+## Processing Objectives
 
 |**Strengths**||
 |-|-|
@@ -26,19 +18,9 @@ There are **20 marks** available for this section.
 |**Weaknesses**||
 || |
 
-##Samples of annotated ‘design views’ (showing details of application-generated forms, reports, queries, buttons, cross-tabulations)
+## Program Listing
 
-###From System Maintenance Marking - System Evidence Section
-
-|**Strengths**||
-|-|-|
-|| |
-|**Weaknesses**||
-|| |
-
-##Any Other Reported Evidence
-
-###From Testing Marking Sections - Outline Plan/Detailed Plan/Test Data
+### From System Maintenance Marking Section (Code listing/Structure)
 
 |**Strengths**||
 |-|-|
@@ -46,7 +28,9 @@ There are **20 marks** available for this section.
 |**Weaknesses**||
 || |
 
-###From Testing Marking Section Evaluation
+## Samples of annotated ‘design views’ (showing details of application-generated forms, reports, queries, buttons, cross-tabulations)
+
+### From System Maintenance Marking - System Evidence Section
 
 |**Strengths**||
 |-|-|
@@ -54,9 +38,9 @@ There are **20 marks** available for this section.
 |**Weaknesses**||
 || |
 
-##System Maintenance
+## Any Other Reported Evidence
 
-###From System Maintenance Marking
+### From Testing Marking Sections - Outline Plan/Detailed Plan/Test Data
 
 |**Strengths**||
 |-|-|
@@ -64,9 +48,27 @@ There are **20 marks** available for this section.
 |**Weaknesses**||
 || |
 
-##User Manual
+### From Testing Marking Section Evaluation
 
-###From User Manual Marking
+|**Strengths**||
+|-|-|
+|| |
+|**Weaknesses**||
+|| |
+
+## System Maintenance
+
+### From System Maintenance Marking
+
+|**Strengths**||
+|-|-|
+|| |
+|**Weaknesses**||
+|| |
+
+## User Manual
+
+### From User Manual Marking
 
 |**Strengths**||
 |-|-|
