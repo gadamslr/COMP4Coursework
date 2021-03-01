@@ -1,24 +1,16 @@
-#Design
-####COMP4 Coursework Feedback and Marking
+# Design
+
+## COMP4 Coursework Feedback and Marking
+
 There are **12 marks** available for this section.
 
 |Name|Candidate No.|Centre No.|Draft Mark|Final Mark|
 |-|-|-|:-:|:-:|
 | | |22151|**0**|**0**|
 
-##Overall Comments
+## Overall Comments
 
-##Layout
-
-|**Strengths**||
-|-|-|
-|| |
-|**Weaknesses**||
-|| |
-
-##Overall System Design
-
-###Short description of the main parts of the system
+## Layout
 
 |**Strengths**||
 |-|-|
@@ -26,7 +18,9 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-###System flowcharts showing an overview of the complete system
+## Overall System Design
+
+### Short description of the main parts of the system
 
 |**Strengths**||
 |-|-|
@@ -34,7 +28,7 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-##User Interface Designs
+### System flowcharts showing an overview of the complete system
 
 |**Strengths**||
 |-|-|
@@ -42,7 +36,7 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-##Hardware Specification
+## User Interface Designs
 
 |**Strengths**||
 |-|-|
@@ -50,9 +44,7 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-##Program Structure
-
-###Top-down desing structure charts
+## Hardware Specification
 
 |**Strengths**||
 |-|-|
@@ -60,7 +52,9 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-###Algorithms in pseudo-code for each data transformation process
+## Program Structure
+
+### Top-down desing structure charts
 
 |**Strengths**||
 |-|-|
@@ -68,7 +62,7 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-###Object Diagrams
+### Algorithms in pseudo-code for each data transformation process
 
 |**Strengths**||
 |-|-|
@@ -76,7 +70,7 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-###Class definitions
+### Object Diagrams
 
 |**Strengths**||
 |-|-|
@@ -84,9 +78,7 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-##Prototyping
-
-###Consideration of impact on design and development
+### Class definitions
 
 |**Strengths**||
 |-|-|
@@ -94,17 +86,9 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-##Definition of Data Requirements
+## Prototyping
 
-###Identification of all data input items
-
-|**Strengths**||
-|-|-|
-|| |
-|**Weaknesses**||
-|| |
-
-###Identification of all data output items
+### Consideration of impact on design and development
 
 |**Strengths**||
 |-|-|
@@ -112,7 +96,9 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-###Explanation of how data output items are generated
+## Definition of Data Requirements
+
+### Identification of all data input items
 
 |**Strengths**||
 |-|-|
@@ -120,7 +106,7 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-###Data Dictionary
+### Identification of all data output items
 
 |**Strengths**||
 |-|-|
@@ -128,7 +114,7 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-###Identification of appropriate storage media
+### Explanation of how data output items are generated
 
 |**Strengths**||
 |-|-|
@@ -136,9 +122,7 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-##Database Design
-
-###ER Diagram
+### Data Dictionary
 
 |**Strengths**||
 |-|-|
@@ -146,7 +130,7 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-###Entity Descriptions and UNF to 3NF
+### Identification of appropriate storage media
 
 |**Strengths**||
 |-|-|
@@ -154,7 +138,9 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-###SQL Queries
+## Database Design
+
+### ER Diagram
 
 |**Strengths**||
 |-|-|
@@ -162,16 +148,7 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-##Security and Integrity of the System and Data
-
-###Security and Integrity of Data
-
-|**Strengths**||
-|-|-|
-|| |
-|**Weaknesses**||
-
-###System Security
+### Entity Descriptions and UNF to 3NF
 
 |**Strengths**||
 |-|-|
@@ -179,7 +156,7 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-##Validation
+### SQL Queries
 
 |**Strengths**||
 |-|-|
@@ -187,9 +164,16 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-##Testing
+## Security and Integrity of the System and Data
 
-###Outline Plan
+### Security and Integrity of Data
+
+|**Strengths**||
+|-|-|
+|| |
+|**Weaknesses**||
+
+### System Security
 
 |**Strengths**||
 |-|-|
@@ -197,7 +181,25 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-###Detailed Plan
+## Validation
+
+|**Strengths**||
+|-|-|
+|| |
+|**Weaknesses**||
+|| |
+
+## Testing
+
+### Outline Plan
+
+|**Strengths**||
+|-|-|
+|| |
+|**Weaknesses**||
+|| |
+
+### Detailed Plan
 
 |**Strengths**||
 |-|-|
