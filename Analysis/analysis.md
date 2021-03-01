@@ -36,7 +36,8 @@ Before you meet your client you should prepare a list of questions you want answ
 
 In addition, give your client a copy of the questions ahead of time so that they can prepare effectively as well - this will make your meeting much more productive.
 
-#####Interview checklist
+##### Interview checklist
+
 This checklist of points may help you develop an appropriate set of questions for the interview:
 
 Here is a checklist of points you may want to cover in an Interview:
