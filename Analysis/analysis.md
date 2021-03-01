@@ -100,7 +100,8 @@ The table should be structured in the following way:
 |----|---------|------|----------|
 |User|Amended Patient Information|First Name|Receptionist|
 
-###Algorithms
+### Algorithms
+
 This section can be quite challenging as it is difficult to identify algorithms, especially in the current system. Keep in mind that all systems have algorithms, even if they are **manual systems**.
 
 When you have identified some algorithms for your system you should attempt to express them in **pseudo-code** and provide any other annotation that you think is appropriate.
@@ -175,7 +176,8 @@ Finally you should define each class - what attributes does a particular class h
 
 Depending on your problem you may find it helpful to use other graphical representations to help aid understanding of the problem. This is difficult to discuss in general terms but if you think something could be better described in a graphical manner, discuss this with your teacher.
 
-##Constraints
+## Constraints
+
 In any project their are various limitations that must be described:
 
 - **Hardware** - what kind of hardware is available? How does this impact the project? What recommendations would you make if additional hardware is required?
