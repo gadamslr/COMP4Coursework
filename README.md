@@ -1,20 +1,23 @@
-#COMP4 Coursework
+# COMP4 Coursework
 
-##Introduction
+## Introduction
+
 The Computing project is most likely the most challenging piece of work you will produce this year. As well as having to create a suitable program for your client you will have to produce a report that covers the main stages of the **software development lifecycle** (as they are described in the specification).
 
 It is this report that gains the majority of marks for unit (**55/75**) and therefore it is very important that you approach it with the right mindset. If you prepare properly and have a plan in place then producing the document is reasonably straight-forward, if somewhat time consuming.
 
 Follow the guidance given here and stick to the deadlines and you will produce a piece of software and a report that you will be both proud of and that will gain a good grade.
 
-##Deadlines for 2015-16
+## Deadlines for 2015-16
+
 It is expected that you will submit each coursework section by the relevant deadline given below. Your document should be submitted to the appropriate **coursework submission link** on the **COMP4** [**Long Road Moodle**][9] page.
 
 Each **submission is due** on the day listed by **midnight**.
 
 **No late submissions** will be accepted. Please see the **[Computing coursework submission policy][8]** for full details on acceptable submissions.
 
-##Section Guidance Notes
+## Section Guidance Notes
+
 Below are links to **guidance notes** and **deadlines** for each section.
 
 1. [**Analysis**][1]
@@ -39,7 +42,8 @@ Below are links to **guidance notes** and **deadlines** for each section.
     - **Final** - Friday 25th March
     - Minor Improvements - Friday 15th April
 
-##LaTeX
+## LaTeX
+
 It is **strongly recommended** that you use LaTeX for your coursework write-up - some reasons for this are listed on the [installation and styling guidance][10] page. LaTeX templates and examples are provided in this repository to make working with this system easier.
 
 LaTeX is used widely in the academic world and you may find yourself using it at University. Getting a head start learning the syntax this year will be provide you with invaluable experience.
