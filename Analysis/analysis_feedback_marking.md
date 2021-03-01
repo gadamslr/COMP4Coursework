@@ -1,24 +1,16 @@
-#Analysis
-####COMP4 Coursework Feedback and Marking
+# Analysis
+
+## COMP4 Coursework Feedback and Marking
+
 There are **12 marks** available for this section.
 
 |Name|Candidate No.|Centre No.|Draft Mark|Final Mark|
 |-|-|-|:-:|:-:|
 | | |22151|**0**|**0**|
 
-##Overall Comments
+## Overall Comments
 
-##Layout
-
-|**Strengths**||
-|-|-|
-|| |
-|**Weaknesses**||
-|| |
-
-##Introduction
-
-###Client Identification
+## Layout
 
 |**Strengths**||
 |-|-|
@@ -26,7 +18,9 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-###Definition of Current System
+## Introduction
+
+### Client Identification
 
 |**Strengths**||
 |-|-|
@@ -34,9 +28,7 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-##Investigation (The Current System)
-
-###Data sources and destinations
+### Definition of Current System
 
 |**Strengths**||
 |-|-|
@@ -44,7 +36,9 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-###Algorithms
+## Investigation (The Current System)
+
+### Data sources and destinations
 
 |**Strengths**||
 |-|-|
@@ -52,7 +46,7 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-###DFDs (where relevant)
+### Algorithms
 
 |**Strengths**||
 |-|-|
@@ -60,7 +54,7 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-###Input Forms, Output Forms, Report Formats
+### DFDs (where relevant)
 
 |**Strengths**||
 |-|-|
@@ -68,9 +62,7 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-##Investigation (The Proposed System)
-
-###Data sources and destinations
+### Input Forms, Output Forms, Report Formats
 
 |**Strengths**||
 |-|-|
@@ -78,7 +70,9 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-###DFDs (where relevant)
+## Investigation (The Proposed System)
+
+### Data sources and destinations
 
 |**Strengths**||
 |-|-|
@@ -86,7 +80,7 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-###Data Dictionary
+### DFDs (where relevant)
 
 |**Strengths**||
 |-|-|
@@ -94,7 +88,7 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-###Volumetrics
+### Data Dictionary
 
 |**Strengths**||
 |-|-|
@@ -102,9 +96,7 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-##Objectives
-
-###General Objectives
+### Volumetrics
 
 |**Strengths**||
 |-|-|
@@ -112,7 +104,9 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-###Specific Objectives
+## Objectives
+
+### General Objectives
 
 |**Strengths**||
 |-|-|
@@ -120,7 +114,7 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-###Core Objectives
+### Specific Objectives
 
 |**Strengths**||
 |-|-|
@@ -128,7 +122,7 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-###Other Objectives
+### Core Objectives
 
 |**Strengths**||
 |-|-|
@@ -136,9 +130,7 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-##ER Diagrams and Descriptions
-
-###ER Diagram
+### Other Objectives
 
 |**Strengths**||
 |-|-|
@@ -146,7 +138,9 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-###Entity Descriptions
+## ER Diagrams and Descriptions
+
+### ER Diagram
 
 |**Strengths**||
 |-|-|
@@ -154,16 +148,7 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-##Object Analysis
-
-###Object Listing
-
-|**Strengths**||
-|-|-|
-|| |
-|**Weaknesses**||
-
-###Relationship Diagrams
+### Entity Descriptions
 
 |**Strengths**||
 |-|-|
@@ -171,7 +156,16 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-###Class Definitions
+## Object Analysis
+
+### Object Listing
+
+|**Strengths**||
+|-|-|
+|| |
+|**Weaknesses**||
+
+### Relationship Diagrams
 
 |**Strengths**||
 |-|-|
@@ -179,9 +173,7 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-##Graphs (and Other Abstractions)
-
-###Graphs
+### Class Definitions
 
 |**Strengths**||
 |-|-|
@@ -189,17 +181,9 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-##Constraints
+## Graphs (and Other Abstractions)
 
-###Hardware
-
-|**Strengths**||
-|-|-|
-|| |
-|**Weaknesses**||
-|| |
-
-###Software
+### Graphs
 
 |**Strengths**||
 |-|-|
@@ -207,7 +191,9 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-###Time
+## Constraints
+
+### Hardware
 
 |**Strengths**||
 |-|-|
@@ -215,7 +201,7 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-###User Knowledge
+### Software
 
 |**Strengths**||
 |-|-|
@@ -223,7 +209,7 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-###Access Restrictions
+### Time
 
 |**Strengths**||
 |-|-|
@@ -231,9 +217,7 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-##Limitations
-
-###Areas which will not be included in computerisation
+### User Knowledge
 
 |**Strengths**||
 |-|-|
@@ -241,7 +225,7 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-###Areas considered for future computerisation
+### Access Restrictions
 
 |**Strengths**||
 |-|-|
@@ -249,9 +233,9 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-##Solutions
+## Limitations
 
-###Alternative Solutions
+### Areas which will not be included in computerisation
 
 |**Strengths**||
 |-|-|
@@ -259,7 +243,25 @@ There are **12 marks** available for this section.
 |**Weaknesses**||
 || |
 
-###Justification of Chosen Solution
+### Areas considered for future computerisation
+
+|**Strengths**||
+|-|-|
+|| |
+|**Weaknesses**||
+|| |
+
+## Solutions
+
+### Alternative Solutions
+
+|**Strengths**||
+|-|-|
+|| |
+|**Weaknesses**||
+|| |
+
+### Justification of Chosen Solution
 
 |**Strengths**||
 |-|-|
