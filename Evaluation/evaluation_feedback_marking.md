@@ -1,6 +1,6 @@
 # Evaluation
 
-##COMP4 Coursework Feedback and Marking
+## COMP4 Coursework Feedback and Marking
 
 There are **6 marks** available for this section.
 
